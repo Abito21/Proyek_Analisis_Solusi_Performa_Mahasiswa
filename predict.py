@@ -1,10 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import streamlit as st
 import pickle
-from babel.numbers import format_currency
-sns.set(style='dark')
 
 # Load Model XGBoost
 model_pred = pickle.load(open('./models/model.pkl', 'rb'))
