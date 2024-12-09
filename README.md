@@ -130,7 +130,7 @@ Jalankan di terminal
 streamlit run predict.py
 ```
 
-Atau dapat diakses secara online pada link berikut : [Students Predict App]()
+Atau dapat diakses secara online pada link berikut : [Students Predict App](https://predictstatusabidapp.streamlit.app/)
 
 Step menggunakan aplikasi prediksi :
 1. Buka Streamlit Student Predict App
