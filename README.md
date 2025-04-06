@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 #### Run Aplikasi Sistem Klasifikasi Mahasiswa Dropout
 
-![predictapp](https://raw.githubusercontent.com/Abito21/Proyek_Analisis_Solusi_Performa_Mahasiswa/main/pictures/abidindraswara_predictappstreamlit.png)
+![predictapp](https://raw.githubusercontent.com/Abito21/Proyek_Analisis_Solusi_Performa_Mahasiswa/main/pictures/predictappstreamlit.png)
 
 Sistem klasifikasi saat ini bisa dijalankan melalui Google Collaboratory pada cell dengan menjalankan kode program yang berada di file `predict.py`. Atau bisa menjalankan di lokal dengan update kode upload dan kode model di sesuaikan
 
@@ -143,7 +143,7 @@ Step menggunakan aplikasi prediksi :
 
 Dashboard yang dibuat merupakan hasil analisis dari EDA based on Question. Setidaknya beberapa variabel utama yang dibandingkan dengan variabel Status untuk menganalisis masing-masing persebaran datanya. Beberapa variabel tersebut diantaranya Marital Status, Gender, Umur pada saat Mendaftar, Bidang Keilmun atau Jurusan, Waktu Kehadiran Kuliah, Debtor dan Scholarship Holder. Terdapat filter untuk beberapa data yang disajikan secara total yaitu Filter Status untuk menyaring beberapa informasi berdasarkan mahasiswa Enrolled, mahasiswa Graduated dan mahasiswa Dropout. Dashboard disajikan seringkas mungkin agar mudah dibaca oleh tim analisis Jaya Jaya Institut.
 
-![dashboard](https://raw.githubusercontent.com/Abito21/Proyek_Analisis_Solusi_Performa_Mahasiswa/main/pictures/abidindraswara-dashboard.png)
+![dashboard](https://raw.githubusercontent.com/Abito21/Proyek_Analisis_Solusi_Performa_Mahasiswa/main/pictures/dashboard.png)
 
 ## Conclusion
 
