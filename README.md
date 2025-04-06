@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 #### Run Aplikasi Sistem Klasifikasi Mahasiswa Dropout
 
-![predictapp](https://raw.githubusercontent.com/Abito21/Proyek_Analisis_Solusi_Performa_Mahasiswa/main/pictures/abidindraswara-predictappstreamlit.png)
+![predictapp](https://raw.githubusercontent.com/Abito21/Proyek_Analisis_Solusi_Performa_Mahasiswa/main/pictures/abidindraswara_predictappstreamlit.png)
 
 Sistem klasifikasi saat ini bisa dijalankan melalui Google Collaboratory pada cell dengan menjalankan kode program yang berada di file `predict.py`. Atau bisa menjalankan di lokal dengan update kode upload dan kode model di sesuaikan
 
